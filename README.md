@@ -7,7 +7,7 @@ This program allows you to see your signal strengh as a percentage and your Tran
 ## Install
 
 git clone this
-cd NetworkVisualizer
+cd Basic-Network-Interface-Visualizer
 
 
 ## Run the Program
